@@ -15,7 +15,7 @@
 using namespace std;
 int main(int argc, char *argv[])
 {
-    /* The following lines of code (18-53) are an implementation of the sample code given to us on BB.
+    /* (18-53) are an implementation of the sample code given to us on BB.
        They allow a connection to be made between the client and the server to retrieve the size of the
        ring */
     

@@ -26,7 +26,7 @@ int main(int argc, char *argv[])
     {
         procAccess.push_back(procType);
     }
-    //creating a socket to allow for clients to connect to the server. Edge cases cover any fails in the connection. This is an implementation of the example code given to us in on BB.
+    
     int sockfd, newsockfd, portno, clilen;
     char buffer[256];
     struct sockaddr_in serv_addr, cli_addr;
